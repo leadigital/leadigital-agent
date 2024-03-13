@@ -1,0 +1,28 @@
+### STS ###
+/bin/
+/target/
+*/target/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr
+
+### NONSENSE ###
+*pid*.log
+.asciidoctorconfig.adoc
+messages_zh.properties
+messages_en.properties
+ValidationMessages_zh.properties
+ValidationMessages_en.properties
+rebel.xml
+spy.log
+.DS_Store
