@@ -172,7 +172,4 @@ start.sh
 
 ```bash
 lmdeploy serve api_server /llm/model/internlm2-chat-20b --server-port 23333 --tp 2
-
-## 视频简介
-[![替代文本](img/video.png)](http://static.leadigital.net/video/ld-ai-agent.mp4)
 ```
